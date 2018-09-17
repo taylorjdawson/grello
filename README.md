@@ -1,3 +1,4 @@
 # grello
 
-A Trello CLI, gopher style.
+A Trello CLI, gopher style. 
+
